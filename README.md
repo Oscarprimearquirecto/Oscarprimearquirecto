@@ -27,6 +27,6 @@ Para:
 2.  **Licenciamiento Industrial.**
 3.  **Implementaciones de Prueba de Concepto (PoC).**
 
-Por favor, contacte directamente al equipo de arquitectura en: **[TU CORREO PROFESIONAL AQUÍ]**
+Por favor, contacte directamente al equipo de arquitectura en: osarsua@gmail.com 
 
 *Toda consulta será tratada bajo estrictos estándares de confidencialidad.*
