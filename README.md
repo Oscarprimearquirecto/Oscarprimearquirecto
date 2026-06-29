@@ -1,4 +1,4 @@
-# [NOMBRE DE TU ARQUITECTURA / PROYECTO]
+
 ## Arquitectura de Alta Resonancia y Optimización de Baja Entropía
 
 ### Resumen Ejecutivo
